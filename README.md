@@ -1,0 +1,5 @@
+# AMQP WITH RABBITMQ
+
+Sample processes with rabbitMQ
+
+THIS REPO IS FOR LEARNING PURPOSES ONLY
